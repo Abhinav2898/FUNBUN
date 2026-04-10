@@ -1,0 +1,19 @@
+========================================
+       GRAND HOTEL - BILL RECEIPT       
+========================================
+Booking ID   : 4
+Customer     : mahesh
+Contact      : 9638521470
+Room No.     : 302
+Room Type    : Deluxe
+Check-In     : 08-04-2026
+Check-Out    : 09-04-2026
+Days Stayed  : 1
+Rate/Day     : Rs.3500.0
+----------------------------------------
+TOTAL BILL   : Rs.3500.00
+========================================
+     Thank you for staying with us!     
+========================================
+
+Generated on: 09-04-2026

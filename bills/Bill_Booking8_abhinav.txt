@@ -1,0 +1,19 @@
+========================================
+       GRAND HOTEL - BILL RECEIPT       
+========================================
+Booking ID   : 8
+Customer     : abhinav
+Contact      : 7894561230
+Room No.     : 202
+Room Type    : Double
+Check-In     : 29-03-2026
+Check-Out    : 09-04-2026
+Days Stayed  : 11
+Rate/Day     : Rs.2000.0
+----------------------------------------
+TOTAL BILL   : Rs.22000.00
+========================================
+     Thank you for staying with us!     
+========================================
+
+Generated on: 09-04-2026

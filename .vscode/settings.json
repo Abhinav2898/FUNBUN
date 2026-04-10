@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "C:/Users/abhin/.m2/repository/org/openjfx/**/*.jar"
+    ],
+    "java.project.importOrder": [
+        "java",
+        "javax",
+        "com",
+        "org"
+    ],
+    "java.autobuild.enabled": true
+}
