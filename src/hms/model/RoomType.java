@@ -4,6 +4,7 @@ public enum RoomType {
     SINGLE("Single", 1000.0),
     DOUBLE("Double", 2000.0),
     DELUXE("Deluxe", 3500.0);
+    
 
     private final String label;
     private final double pricePerDay;
